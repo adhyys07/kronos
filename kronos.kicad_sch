@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "05411d4e-5a66-4249-a10f-735e1ec24d10")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 151.13 59.69)
+		(size 104.14 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "495747f2-dfef-44b3-a473-1a623289ab94")
+		(property "Sheetname" "right"
+			(at 151.13 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rightside.kicad_sch"
+			(at 151.13 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "kronos"
+				(path "/05411d4e-5a66-4249-a10f-735e1ec24d10"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 59.69)
+		(size 104.14 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4acaa987-9908-4a8c-8918-06ea36e7da0f")
+		(property "Sheetname" "left"
+			(at 29.21 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lefthalf.kicad_sch"
+			(at 29.21 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "kronos"
+				(path "/05411d4e-5a66-4249-a10f-735e1ec24d10"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
