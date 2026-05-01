@@ -6,8 +6,8 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 151.13 59.69)
-		(size 104.14 57.15)
+		(at 26.67 58.42)
+		(size 116.84 59.69)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20,9 +20,9 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "495747f2-dfef-44b3-a473-1a623289ab94")
-		(property "Sheetname" "right"
-			(at 151.13 58.9784 0)
+		(uuid "28bd63c8-04b4-4054-b359-745445db02af")
+		(property "Sheetname" "left"
+			(at 26.67 57.7084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32,8 +32,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "rightside.kicad_sch"
-			(at 151.13 117.4246 0)
+		(property "Sheetfile" "side.kicad_sch"
+			(at 26.67 118.6946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -52,8 +52,8 @@
 		)
 	)
 	(sheet
-		(at 29.21 59.69)
-		(size 104.14 57.15)
+		(at 158.75 58.42)
+		(size 116.84 59.69)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -66,9 +66,9 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "4acaa987-9908-4a8c-8918-06ea36e7da0f")
-		(property "Sheetname" "left"
-			(at 29.21 58.9784 0)
+		(uuid "8e367b62-79db-47ee-9b3c-29cd16bf02eb")
+		(property "Sheetname" "right"
+			(at 158.75 57.7084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -78,8 +78,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "lefthalf.kicad_sch"
-			(at 29.21 117.4246 0)
+		(property "Sheetfile" "side.kicad_sch"
+			(at 158.75 118.6946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

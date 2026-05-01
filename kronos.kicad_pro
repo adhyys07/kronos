@@ -416,7 +416,7 @@
         "uuid": "05411d4e-5a66-4249-a10f-735e1ec24d10"
       }
     ],
-    "used_designators": "H1-8,SW1-32,#PWR1-5,D1-25,U1-2,TP1-3,R1-3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -425,12 +425,12 @@
       "Root"
     ],
     [
-      "4acaa987-9908-4a8c-8918-06ea36e7da0f",
-      "left"
+      "8e367b62-79db-47ee-9b3c-29cd16bf02eb",
+      "right"
     ],
     [
-      "495747f2-dfef-44b3-a473-1a623289ab94",
-      "right"
+      "28bd63c8-04b4-4054-b359-745445db02af",
+      "left"
     ]
   ],
   "text_variables": {},
