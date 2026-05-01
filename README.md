@@ -7,5 +7,5 @@ Kronos is a split gaming keyboard with RGB keys support powered by XIAO-nRF52840
 
 | Item Name | Quantity | Link | Total Cost 
 |----------|----------|----------|----------|
-| Seeed XIAO nRF52840 | 2 | [Board Link](https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0?variant=47769216516320) | 25$ |
+| Seeed XIAO nRF52840 | 2 | [Board Link](https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0?variant=47769216516320) | $ 25 |
 | | Row 2, C2 | Row 2, C3 |  Row 1, C3 |
